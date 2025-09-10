@@ -67,7 +67,7 @@ Key features:
 You can run this notebook in **Google Colab** or **locally in Jupyter**.
 
 1. Clone the repository
-2. Open `DeepFeedforwardNN_FromScratch.ipynb`
+2. Open `DeepFeedforwardNN.ipynb`
 3. Run all cells
 4. Modify `learning_rate`, `epochs`, or architecture to experiment
 
@@ -77,7 +77,7 @@ You can run this notebook in **Google Colab** or **locally in Jupyter**.
 
 ```
 📦 DeepFeedforwardNN-FromScratch
-├── DeepFeedforwardNN_FromScratch.ipynb     # Full implementation
+├── DeepFeedforwardNN.ipynb     # Full implementation
 ├── README.md
 ├── assets/
 │   ├── loss_curve.png
